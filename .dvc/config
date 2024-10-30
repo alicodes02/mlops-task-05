@@ -1,0 +1,7 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = gdrive://1dQssvWNvAqH3eHH9ypjx8ENHDO-GtUrM
+    gdrive_use_service_account = true
+    gdrive_service_account_json_file_path = ../mlops-task-440218-2c34a3f5ee84.json
+    gdrive_service_account_user_email = dvc-48@mlops-task-440218.iam.gserviceaccount.com
